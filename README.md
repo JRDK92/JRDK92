@@ -3,7 +3,7 @@ I’m Joseph Sauerland. I'm an experienced and results-driven Analytics Engineer
 <br>
 ## 🚀 About Me  
 <br>
-<img src="https://github.com/JRDK92/jsauerland/blob/main/Human.jpg" alt="My Profile Image" width="150" align="right"/>
+<img src="https://github.com/JRDK92/JRDK92/blob/main/Human.jpg" alt="My Profile Image" width="150" align="right"/>
 
 I have extensive experience working with enterprise-level analytics solutions, focusing on data modeling, reporting, and business intelligence. Over my career, I've designed and optimized scalable data models using Teradata and SQL, developed actionable Tableau and Power BI dashboards, and successfully migrated BI solutions to the cloud. I collaborate cross-functionally with teams to create real-time insights and streamline reporting processes, ultimately driving strategic decisions and improving performance metrics.
 <br>
