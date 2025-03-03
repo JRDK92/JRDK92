@@ -17,10 +17,6 @@ I have extensive experience working with enterprise-level analytics solutions, f
   
 <br>
 
-## 📊 Reporting Examples in Tableau or Power BI
-🔹 **[Dashboard 1](#)** - A summary of the insights and impact this dashboard provides.  
-🔹 **[Dashboard 2](#)** - Highlight another dashboard showcasing key decision-making features.  
-🔹 **[Dashboard 3](#)** - Showcase of your most advanced or impactful dashboard here.
 
 
 <br>
